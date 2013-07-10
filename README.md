@@ -32,7 +32,7 @@ Format: ANA NAA, Example: W1A 1HQ
 
 Format: AANA NAA, Example: EC1A 1BB
 
-## With the additional caveats:
+### With the additional caveats:
 
 * The letters Q, V and X are not used in the first position.
 * The letters I, J and Z are not used in the second position.
