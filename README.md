@@ -8,11 +8,14 @@ The second expression 'postcodeWithSantander' covers the same set of codes as 'p
 
 Neither of these Regular expressions provide support for [Father Christmas' postcode 'SAN TA1'](http://news.bbc.co.uk/1/hi/programmes/breakfast/4082121.stm).
 
-Match UK postcodes
+## Tests
+Tests can be run with [nodeunit](https://github.com/caolan/nodeunit), if you have any unusual codes that have failed or passed incorrectly against other regexps then it would be great if you added them with a pull request.
+
+## Match UK postcodes
 
 Guidelines taken from [http://webarchive.nationalarchives.gov.uk/](http://webarchive.nationalarchives.gov.uk/20101126012154/http://www.cabinetoffice.gov.uk/govtalk/schemasstandards/e-gif/datastandards/address/postcode.aspx)
 
-## Specifically:
+### Specifically:
 
 A = [A-Z], N = [0-9]
 
